@@ -14,7 +14,7 @@ import javax.persistence.JoinTable;
 import javax.persistence.ManyToMany;
 import javax.persistence.Table;
 
-@Entity(name = "tb_order")
+@Entity
 @Table(name = "tb_order")
 public class Order implements Serializable{
 
