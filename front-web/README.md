@@ -44,3 +44,15 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Warning: findDOMNode is deprecated in StrictMode. findDOMNode was passed an instance of Transition which is inside StrictMode
+### Em index.js, mude <React.StrictMode><App /><React.StrictMode>para <App />e você não verá este aviso. Observe que o modo estrito ajuda você com
+
+### Erro ao acionar Heroku - Falha ao construir o aplicativo com Maven, posso executar o código localmente, mas não consigo implantar no heroku
+### Recebi o mesmo erro ao implantar o projeto git no Heroku. Acabei de alterar java.version para 8 de 11 em pom.xml e funcionou para mim.
+
+## <java.version>11</java.version>
+
+## passar para
+
+## <java.version>8</java.version>
